@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ## Victoria Ubaldo - @vikyale
-- 🔭 I'm Software Engineer and Data Analyst. Enjoy design awesome things :) 
+- 🔭 Software Engineer and Data Analyst. I enjoy designing awesome things :)
 - 🌱 Currently learning about HCI and AI.
 - 👯 GDG Cloud Lima co-organizer and Women Techmakers Lima Ambassador.
 <!--
