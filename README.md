@@ -2,7 +2,7 @@
 
 ## Victoria Ubaldo - @vikyale
 - 🔭 I'm Software Engineer and Data Analyst. 
-- 🌱 Currently learning about artificial intelligence.
+- 🌱 Currently learning about Artificial Intelligence.
 - 👯 GDG Cloud Lima co-organizer and Women Techmakers Lima Ambassador.
 <!--
 **vikyale/vikyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
