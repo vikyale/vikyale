@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Victoria. Software Engineer , enjoy designing and building awesome things ✨. Constantly learning new technologies about web technologies and ML🌱.
+I'm Victoria. Software Engineer, I enjoy designing and building awesome things ✨. Constantly learning new technologies about web technologies and ML🌱.
 GDG Cloud Lima co-organizer and Women Techmakers Ambassador 💙
 <!--
 **vikyale/vikyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
