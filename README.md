@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 ## Victoria Ubaldo - @vikyale
-- 🔭 I'm a Software Engineer, solve problems with code and enjoy designing awesome things ✨
-- 🌱 Currently learning about Data Science and AI.
+- 🔭 I'm a Software Engineer,enjoy designing awesome things ✨
+- 🌱 Currently learning about data science and AI.
 - 👯 GDG Cloud Lima co-organizer and Women Techmakers Lima Ambassador.
 <!--
 **vikyale/vikyale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
